@@ -1,22 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 610" width="1180" height="610">
-<defs>
-<linearGradient id="g" x1="0%" x2="100%"><stop offset="0%" stop-color="#2563EB"><animate attributeName="offset" values="0;1;0" dur="8s" repeatCount="indefinite"/></stop><stop offset="100%" stop-color="#06B6D4"/></linearGradient>
-</defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 610">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0%" stop-color="#2563EB"><animate attributeName="stop-color" values="#2563EB;#22D3EE;#10B981;#2563EB" dur="8s" repeatCount="indefinite"/></stop><stop offset="100%" stop-color="#22D3EE"/></linearGradient></defs>
 <rect width="1180" height="610" rx="28" fill="#FFFFFF"/>
-<rect x="18" y="18" width="1144" height="574" rx="24" fill="#0F172A" stroke="url(#g)" opacity=".95"/>
-<text x="60" y="90" fill="url(#g)" font-family="monospace" font-size="16">
-<tspan x="60" dy="0">      .----.</tspan>
-<tspan x="60" dy="18">     / .--. \</tspan>
-<tspan x="60" dy="18">    | |    | |</tspan>
-<tspan x="60" dy="18">    | |____| |</tspan>
-<tspan x="60" dy="18">     \______/</tspan>
-<animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="5s" repeatCount="indefinite"/>
-</text>
-<text x="470" y="90" fill="#0F172A" font-family="monospace" font-size="28">Hi 👋</text>
-<text x="470" y="140" fill="#0F172A" font-family="monospace" font-size="42">I'm Deep Satani</text>
-<text x="470" y="190" fill="#06B6D4" font-family="monospace" font-size="24">Full Stack Developer</text>
-<text x="470" y="245" fill="#475569" font-family="monospace" font-size="18">📍 Rajkot, Gujarat, India</text>
-<text x="470" y="275" fill="#475569" font-family="monospace" font-size="18">🎓 MCA Student</text>
-<text x="470" y="305" fill="#475569" font-family="monospace" font-size="18">⚡ Focus: ASP.NET MVC • React • .NET</text>
+<rect x="30" y="30" width="1120" height="550" rx="24" fill="#0F172A" stroke="rgba(255,255,255,.08)"/>
+<text x="70" y="120" fill="url(#g)" font-family="monospace" font-size="42">Hi 👋 I'm Deep Satani</text>
+<text x="70" y="180" fill="#0F172A" font-family="monospace" font-size="24">Full Stack Developer</text>
+<text x="70" y="220" fill="#475569" font-family="monospace" font-size="18">This is a starter banner. Replace with full premium version.</text>
 </svg>
